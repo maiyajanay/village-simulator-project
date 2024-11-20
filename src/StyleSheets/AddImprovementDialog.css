@@ -1,0 +1,32 @@
+form {
+  width: 400px;
+
+  margin: 0;
+  padding: 10px;
+  border: 2px solid #000000;
+  background-color: rgb(251, 245, 233);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: fit-content;
+}
+.choiceContainer {
+  display: flex;
+  flex-direction: row;
+}
+.costContainer {
+  margin-left: 30px;
+}
+.benefitContainer {
+  margin-right: 30px;
+}
+
+.form-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Vertically center align the content */
+  margin-bottom: 10px; /* Space between rows */
+}
+h4 {
+  font-weight: bold;
+}
