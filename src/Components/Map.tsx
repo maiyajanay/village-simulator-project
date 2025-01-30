@@ -4,11 +4,11 @@ import "../StyleSheets/Map.css";
 import { AddImprovementDialog } from "./AddImprovementDialog";
 import { EditImprovementDialog } from "./EditImprovementDialog";
 
-import HouseIcon from "../assets/HouseIcon.png";
-import FieldIcon from "../assets/FieldIcon.png";
-import PastureIcon from "../assets/PastureIcon.png";
-import LumberMillIcon from "../assets/LumberMillIcon.png";
-import WellIcon from "../assets/WellIcon.png";
+import HouseIcon from "../Assets/HouseIcon.png";
+import FieldIcon from "../Assets/FieldIcon.png";
+import PastureIcon from "../Assets/PastureIcon.png";
+import LumberMillIcon from "../Assets/LumberMillIcon.png";
+import WellIcon from "../Assets/WellIcon.png";
 
 interface MapProps {
   improvements: ImprovementOption[];

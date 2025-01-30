@@ -5,11 +5,11 @@ import { Resource } from "../Models/Resource";
 import { Improvement } from "../Models/Improvement";
 import "../StyleSheets/App.css";
 import { ResourceLine } from "./ResourceLine";
-import PersonIcon from "../assets/PersonIcon.png";
-import LumberIcon from "../assets/LumberIcon.png";
-import GrainIcon from "../assets/GrainIcon.png";
-import WaterIcon from "../assets/WaterIcon.png";
-import SheepIcon from "../assets/SheepIcon.png";
+import PersonIcon from "../Assets/PersonIcon.png";
+import LumberIcon from "../Assets/LumberIcon.png";
+import GrainIcon from "../Assets/GrainIcon.png";
+import WaterIcon from "../Assets/WaterIcon.png";
+import SheepIcon from "../Assets/SheepIcon.png";
 
 export function App() {
   const [resources, setResources] = useState<Resource[]>([
