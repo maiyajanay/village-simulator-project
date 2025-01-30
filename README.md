@@ -4,7 +4,7 @@ This is a project I worked on with my classmates to create an interactive villag
 
 ### Quick Note on This Repo
 
-You may notice a limited amount of commits for this project. After my coding bootcamp, I duplicated the repo to my own github to respect my classmates privacy and have the ability to continue to work on and improve upon the game while maintaining the original code through my classmates repo.
+You may notice a limited amount of commits for this project. After my coding bootcamp, I duplicated the repo to my own github to respect my classmates privacy and have the ability to continue to work on and improve upon the game while maintaining the original code that was built on my classmates repo.
 
 ## Features
 
