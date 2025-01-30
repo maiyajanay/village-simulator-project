@@ -19,7 +19,7 @@ You may notice a limited amount of commits for this project. After my coding boo
 * [**Node.js**](https://nodejs.org/en) - Provides the server-side environment for handling asynchronous operations and network requests.
 * [**React**](https://react.dev/) - Used for building the dynamic user interface of the app.
 * **Vanilla CSS** - Styles the application, using flexbox and media queries for responsive design.
-* **ReactDOMr**
+* **ReactDOM**
 * **React State**
 
 ## Getting Started
