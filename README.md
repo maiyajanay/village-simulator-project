@@ -1,6 +1,6 @@
 # Village-Simulator-Project
 
-This is a project I worked on with my classmates to create an interactive village game. It's a strategy game where players manage resources and build improvements to grow their village. The goal is to efficiently allocate resources, upgrade buildings, and expand the village while maintaining a balance between resource production and consumption. 
+This is a project I built during my coding bootcamp to create an interactive village game. It's a strategy game where players manage resources and build improvements to grow their village. The goal is to efficiently allocate resources, upgrade buildings, and expand the village while maintaining a balance between resource production and consumption. 
 
 ### Quick Note on This Repo
 
