@@ -236,7 +236,6 @@ export function App() {
         OnDowngrade={handleDowngrade}
         OnRemove={handleRemove}
       />
-
       <ResourceView resources={resources} />
     </div>
   );
